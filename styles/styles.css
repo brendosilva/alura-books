@@ -12,6 +12,9 @@
     --laranja: #EB9B00;
     --azul-degrade: rgba(0, 47, 82, 1);
     --fonte-principal: "Poppins";
+    --fonte--secundaria: 'Josefin Sans', sans-serif;
+    --cinza: #474646;
+    --cinza-claro: #858585;
 
     --azul: #002F52
 }
